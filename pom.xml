@@ -193,9 +193,9 @@
           </appSettings>
 
           <!-- Web App information -->
-          <resourceGroup>${RESOURCEGROUP_NAME}</resourceGroup>
-          <appName>${WEBAPP_NAME}</appName>
-          <region>${REGION}</region>
+          <resourceGroup>spring-petclinic-br</resourceGroup>
+          <appName>spring-petclinic-br</appName>
+          <region>Brazil South</region>
 
           <!-- Java Runtime Stack for Web App on Linux-->
           <linuxRuntime>jre8</linuxRuntime>
