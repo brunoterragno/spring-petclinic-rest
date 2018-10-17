@@ -195,7 +195,7 @@
           <!-- Web App information -->
           <resourceGroup>spring-petclinic-br</resourceGroup>
           <appName>spring-petclinic-br</appName>
-          <region>Brazil South</region>
+          <region>eastus</region>
 
           <!-- Java Runtime Stack for Web App on Linux-->
           <linuxRuntime>jre8</linuxRuntime>
