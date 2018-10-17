@@ -1,2 +1,2 @@
 [config]
-command = mvnw.cmd
+command = deploy.cmd
